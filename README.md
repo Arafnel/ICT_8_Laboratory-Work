@@ -12,6 +12,7 @@ ICT_9_Laboratory-Work/
 ├─ 7W3A0435.jpg
 ├─ index.html
 ├─ styles.css
+├─ script.js
 ├─ 123.jfif
 ├─ Резюме_Программист_Айнур_Суранчина.pdf".pdf
 └─ README.md
